@@ -1,0 +1,8 @@
+.venv/
+__pycache__/
+*.pyc
+api_ingestion/data/
+api_ingestion/state/
+api_ingestion/logs/
+*.log
+*.pid
